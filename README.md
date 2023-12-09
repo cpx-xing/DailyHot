@@ -6,13 +6,11 @@
 <img src="./screenshots/main.jpg" style="border-radius: 16px" />
 </div>
 
-
 ## 示例
 
 > 这里是示例站点
 
-- [今日热榜 - https://hot.imsyy.top/](https://hot.imsyy.top/)
-
+- [今日热榜 - https://hot.xspace.site/](https://hot.xspace.site/)
 
 ## 部署
 
